@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "cus_8812",
+      "name": "Marcus Webb",
+      "email": "marcus.webb@northfield.io",
+      "plan": "team"
+    },
+    {
+      "id": "cus_9014",
+      "name": "Jane Doe",
+      "email": "jane.doe@acme.com",
+      "plan": "enterprise"
+    },
+    {
+      "id": "cus_9130",
+      "name": "Priya Raman",
+      "email": "priya.raman@lumenworks.dev",
+      "plan": "team"
+    }
+  ]
+}
