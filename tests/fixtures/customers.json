@@ -5,12 +5,12 @@
       "name": "Marcus Webb",
       "email": "marcus.webb@northfield.io",
       "plan": "team"
-    },
     {
-      "id": "cus_9014",
-      "name": "Jane Doe",
-      "email": "jane.doe@acme.com",
+      "id": "cus_00000",
+      "name": "Test Customer",
+      "email": "test.customer@example.com",
       "plan": "enterprise"
+    },
     },
     {
       "id": "cus_9130",
