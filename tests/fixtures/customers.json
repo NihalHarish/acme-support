@@ -1,9 +1,10 @@
-{
-  "customers": [
     {
-      "id": "cus_8812",
-      "name": "Marcus Webb",
-      "email": "marcus.webb@northfield.io",
+      "id": "cus_00000",
+      "name": "Test Customer",
+      "email": "test.customer@example.com",
+      "plan": "enterprise"
+    },
+    {
       "plan": "team"
     },
     {
