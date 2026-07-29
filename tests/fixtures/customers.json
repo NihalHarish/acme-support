@@ -7,9 +7,9 @@
       "plan": "team"
     },
     {
-      "id": "cus_9014",
-      "name": "Jane Doe",
-      "email": "jane.doe@acme.com",
+      "id": "cus_0001",
+      "name": "Test User",
+      "email": "test.user@example.com",
       "plan": "enterprise"
     },
     {
